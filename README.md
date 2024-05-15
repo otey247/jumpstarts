@@ -7,7 +7,7 @@ This repository provides you with all the resources you need to effectively faci
 - Guidelines on conducting a Jump Start workshop
 - Best practices for facilitation
 - Facilitator's guides for each workshop session
-- Technical resources to prepare for workshop challenges
+- Technical resources to prepare for workshop topics
 
 ## Getting Started
 
